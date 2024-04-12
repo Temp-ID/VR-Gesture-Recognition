@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0447173e5f260c3479eec62997ae000c, type: 3}
+  m_Name: GestureSettings
+  m_EditorClassIdentifier: 
+  editingPreviewSkeleton: {fileID: 7453875876969529493, guid: 9867bb0568a30fe49bbc42064ec5ae1d, type: 3}
+  defaultMaterial: {fileID: 2100000, guid: fc949fc428d67fa4c95dbb248f93d19c, type: 2}
+  poseRecognizableMaterial: {fileID: 2100000, guid: 9584fb232e5e2f941917059c47ae7df9, type: 2}
+  poseOnTimeMaterial: {fileID: 2100000, guid: 15b9ee8b077dbf944a42cd0ea482aecd, type: 2}
